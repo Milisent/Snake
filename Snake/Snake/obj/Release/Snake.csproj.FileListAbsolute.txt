@@ -1,0 +1,7 @@
+E:\Projects\Snake\Snake\Snake\bin\Release\Snake.exe.config
+E:\Projects\Snake\Snake\Snake\bin\Release\Snake.exe
+E:\Projects\Snake\Snake\Snake\bin\Release\Snake.pdb
+E:\Projects\Snake\Snake\Snake\obj\Release\Snake.csprojAssemblyReference.cache
+E:\Projects\Snake\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+E:\Projects\Snake\Snake\Snake\obj\Release\Snake.exe
+E:\Projects\Snake\Snake\Snake\obj\Release\Snake.pdb
